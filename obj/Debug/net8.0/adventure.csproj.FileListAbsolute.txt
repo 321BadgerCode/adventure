@@ -1,0 +1,14 @@
+/home/badger/Documents/code/cs/adventure/bin/Debug/net8.0/adventure
+/home/badger/Documents/code/cs/adventure/bin/Debug/net8.0/adventure.deps.json
+/home/badger/Documents/code/cs/adventure/bin/Debug/net8.0/adventure.runtimeconfig.json
+/home/badger/Documents/code/cs/adventure/bin/Debug/net8.0/adventure.dll
+/home/badger/Documents/code/cs/adventure/bin/Debug/net8.0/adventure.pdb
+/home/badger/Documents/code/cs/adventure/obj/Debug/net8.0/adventure.GeneratedMSBuildEditorConfig.editorconfig
+/home/badger/Documents/code/cs/adventure/obj/Debug/net8.0/adventure.AssemblyInfoInputs.cache
+/home/badger/Documents/code/cs/adventure/obj/Debug/net8.0/adventure.AssemblyInfo.cs
+/home/badger/Documents/code/cs/adventure/obj/Debug/net8.0/adventure.csproj.CoreCompileInputs.cache
+/home/badger/Documents/code/cs/adventure/obj/Debug/net8.0/adventure.dll
+/home/badger/Documents/code/cs/adventure/obj/Debug/net8.0/refint/adventure.dll
+/home/badger/Documents/code/cs/adventure/obj/Debug/net8.0/adventure.pdb
+/home/badger/Documents/code/cs/adventure/obj/Debug/net8.0/adventure.genruntimeconfig.cache
+/home/badger/Documents/code/cs/adventure/obj/Debug/net8.0/ref/adventure.dll
